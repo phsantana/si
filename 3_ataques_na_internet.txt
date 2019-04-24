@@ -1,0 +1,74 @@
+ATAQUES NA INTERNET
+	Podem ocorrer por diversos motivos:
+		- Demonstração de poder;
+		- Prestígio;
+		- Motivações Financeiras (coletar e utilizar informações confidenciais de usuários par aplicar golpes);
+		- Motivações Ideológicas;
+		- Motivações Comerciais;
+
+	EXPLORAÇÃO DE VULNERABILIDADES
+		VULNERABILIDADE: condição que, quando explorada por uma atacante, pode resultar em uma violação de segurança (falhas no projeto, implementação ou na configuração de programas, serviços ou equipamentos de rede).
+
+		Um ataque de exploração de vulnerabilidades ocorre quando um atacante tenta executar ações maliciosas (explorando esta vulnerabilidade).
+
+
+		VARREDURA EM REDES (SCAN)
+			Consiste em efetuar buscas minuciosas em redes.
+
+			OBJETIVO: identificar computadores ativos e coletar informações sobre eles. Assim, é possível associar possíveis vulnerabilidades aos serviços disponibilizados e aos programas instalados nos computadores ativos detectados.
+
+			Podem ser usadas de formas:
+				LEGÍTIMA: pessoas devidamente autorizadas, para verificar segurança de computadores e redes (prevenir e corrigir)
+				MALICIOSA: explorar vulnerabilidades para a excução de atividades maliciosas. Podem também utilizar os computadores ativos detectados como potenciais alvos no processo de propagação automática de códigos maliciosos e em ataques de força bruta
+
+
+		FALSIFICAÇÃO DE E-MAIL (E-MAIL SPOOFING)
+			Técnica que consiste em alterar campos no cabeçalho de um e-mail, alterando a origem.
+
+			SINTOMAS:
+				- Recebeu respostas de e-mails que nunca enviou?
+				- Recebeu e-mails aparentemente enviados por você sem que você tenha feito isso?
+
+
+		INTERCEPTAÇÃO DE TRÁFEGO (SNIFFING)
+			Técnica que consiste em inspecionar os dados trafegados em redes de computadores por meio de sniffers.
+
+				Pode ser usada de forma:
+					LEGÍTIMA: por administradores de redes (detectar problemas, analisar desempenho e monitrar atividades maliciosas)
+					MALICIOSA: capturar informações sensíveis
+
+
+		FORÇA BRUTA
+			Consiste em adivinhar, por tentativa e erro, um nome de usuário e senha e, assim, executar processos e acessar sites, computadores e serviços em nome e com os mesmos privilégios deste usuário.
+
+			Qualquer dispositivo que seja acessível via internet com nome de usuário e senha, pode ser alvo deste ataque.
+			Ainda que não acertem a senha, o usuário pode ter problemas, pois muitos sistemas bloqueiam as contas quando várias tentativas de acesso sem sucesso são realizadas.
+
+
+		DESFIGURAÇÃO DE PÁGINA (DEFACEMENT OU PICHAÇÃO)
+			Técnica que consiste em alterar o conteúdo da página Web de um site.
+
+			Atacante = Defacer
+
+			Principais formas que um dafacer pode utilizar para desfigurar uma página:
+				- Explorar erros de aplicação Web;
+				- Explorar vulnerabilidades do servidor de aplicação Web;
+				- Explorar vulnerabilidades da LP ou dos pacotes utilizados no desenvolvimento da aplicação Web;
+				- Invadir o servidor onde a aplicação Web está hospedada e alterar diretamente os arquivos que compõem o site;
+				- furtar senhas de acesso à interface Web usada para administração remota.
+
+
+		NEGAÇÃO DE SERVIÇO (DoS e DDoS)
+			Já conhecemos
+
+
+		PREVENÇÃO
+			Proteja seus dados!
+			Faça uso de mecanismos de proteção disponíveis e manter o seu computador atualizado e livre de códigos maliciosos
+
+			Ao fazer isso, você estará contribuindo para a segurança geral da Internet, pois:
+				- quanto menor a quantidade de computadores vulneráveis e infectados, menor será a potência de botnets e menos eficazes serão os ataques de negação de serviço;
+				- quanto mais consciente dos mecanismos de segurança você estiver, menores serão as chances de sucesso dos atacantes; 
+				- quanto melhores forem suas senhas, menores serão as chances de sucesso de ataques de força bruta e, consequentemente, de suas contas serem invadidas;
+				- quanto mais usuários usarem criptografia para proteger os dados armazenados ou aqueles transimitidos ela internet, menores serão as chances de tráfego em texto interceptado por atacantes;
+				- quanto menor a quantidade de vulnerabilidades existentes em seu computador, menores serão as chances de ele ser invadido ou infectado.
