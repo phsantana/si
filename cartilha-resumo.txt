@@ -1,0 +1,167 @@
+SEGURANÇA NA INTERNET
+	Riscos ao utilizar a internet:
+		- Acesso a conteúdos impróprios ou ofensivos
+			(pornografia, ódio, racismo)
+
+		- Contato com pessoas mal-intencionadas
+			(aproveitam da falsa sensação de anonimato. Pornagrafia infantil, estelionato, sequestro)
+
+		- Furto de identidade
+			(colocando em risco sua imagem ou reputação)
+
+		- Furto e perda de dados
+			(dados podem ser furtados e apagados)
+
+		- Invasão de privacidade
+			(podem tornar público aquilo que era privado. Alteração nos dados)
+
+		- Divulgação de boatos
+			(divulgação de informações falsas. Podem gerar pânico e prejudicar pessoas/empresas)
+
+		- Dificuldade de exclusão
+			(aquilo que está na internet nem sempre pode ser totalmente excluído ou ter o acesso controlado, e podem ser usados contra você)
+
+		- Dificuldade de detectar e expressar sentimentos
+			(podem gerar mal entendido e interpretação dúbia)
+
+		- Dificuldade de manter sigilo
+			(as informações podem trafegar ou ficar armazenadas de forma que outras pessoas tenham acessos)
+
+		- Uso excessivo
+			(podem colocar em risco a saúde física, diminuir a produtividade e afetar sua vida profissional e pessoal)
+
+		- Plágio e violação de direitos autorais
+			(a violação do copyright pode resultar em problemas jurídicos e em perdas financeiras)
+
+		- Achar que não corre riscos por supor que ninguém tem interesse em utilizar o seu computador ou que dificilmente acontecerá com você
+			(seu computador pode ser usado para a prática de atividades maliciosas)
+
+
+		PREVENÇÕES
+			1) Estar ciente de que a internet não tem nada de "virtual" (golpes que são aplicados na internet são aplicados na vida real, os dados são reais);
+			2) Tenha os mesmos cuidados e as mesmas preocupações que você tem no seu dia a dia
+			3) Adote uma postura preventiva que a atenção com a segurança seja um hábito incorporado à sua rotina
+
+
+
+GOLPES NA INTERNET
+	Exploram fragilidades dos usuários. Os golpistas procuram enganar e persuadir potenciais vítimas a fornecerem informações sensível ou a realizarem ações por meio de engenharia social e por diferentes meios de discursos.
+
+	- FURTO DE IDENTIDADE (IDENTITY THEFT):
+		O QUÊ É: Ato pelo qual uma pessoa tenta se passar por outra.
+				"Quanto mais informações suas são disponibilizadas, mais fácil se torna para um golpista furtar a sua identidade."
+
+		OBJETIVO: obter vantagens indevidas.
+
+		SINTOMAS:
+			- Você começa a ter problemas com orgãos de proteção de crédito;
+			- Você recebe retorno de e-mails que não foram enviados por você;
+			- Você verifica nas notificações de suas contas online que estas foram acessadas em horários ou locais que você não estava acessando;
+			- Ao analisar o extrato da sua conta bancária ou cartão de crédito, tu percebe transações que não foram realizadas por você;
+			- Recebe notificações (telefone, e-mail) se referindo a assuntos sobre os quais você não sabe nada a respeito.
+
+		PREVENÇÃO: evitar que o impostor tenha acesso aos seus dados e às suas contas de usuário. Elabore bem suas senhas e cuidado ao usá-las.
+
+
+	- FRAUDE DE ANTECIPAÇÃO DE RECURSOS (ADVANCE FEE FRAUD)
+		O QUÊ É: Aquela na qual o golpista procura induzir uma pessoa a fornecer informações confidenciais ou a realizar um pagamento adiantado com a promessa de futuramente receber algum tipo de benefício
+
+		Golpe da Nigéria (famoso: preciso que você me envie um valor para que eu possa depositar o outro)
+
+		TIPOS:
+			- Loteria Internacional (você foi sorteado em uma loteria internacional, mas precisa fornecer seus dados e conta bancária)
+			- Crédito fácil (o crédito é seu, mas é necessário que tu faça um depósito bancário)
+			- Doação de Animais (o animal é seu, mas precisa pagar pelo transporte)
+			- Oferta de emprego (para efetivar a contratação, envie money)
+			- Noiva russa (quero ficar com você mas preciso de dinheiro para ir te ver)
+
+		CARACTERÍSTICAS
+			- oferece quantias astronômicas de dinheiro;
+			- solicita sigilo nas transações;
+			- solicita que você responda rapidamente;
+			- apresenta palavras como "urgente" e "confidencial" no campo de assunto;
+			- erros gramaticais e de ortografia,
+
+		PREVENÇÃO
+			- Questione (por que eu?);
+			- Desconfie destas situações.
+
+		"Quando a esmola é demais, o santo desconfia"
+
+
+	- PHISHING
+		O QUE É: Fraude na qual o golpista tenta obter dados pessoais e financeiros de um usuário pela utilização combinada de meios técnicos e de engenharia social.
+
+		CARACTERÍSTICAS:
+			- Tentam se passar por bancos, empresas ou sites populares;
+			- Procuram atrair a atenção;
+			- Informam que a não execução dos procedimentos descritos pode acarretar em sérias consequências;
+			- Tentam induzir o usuário a fornecer dados pessoais e financeiros, por meio de acesso a páginas falsas, que tentam se passsar pela página oficial da instituição.
+
+		TIPOS:
+			- Páginas falsas de comércio eletrônico ou Internet Banking;
+			- Páginas falsas de redes sociais ou de companhias aéreas;
+			- Mensagens contendo formulários;
+			- Mensagens contendo links para códigos maliciosos;
+			- Solicitação de recadastramento.
+
+		PREVENÇÃO
+			- Fique atento a mensagens recebidas em nome de alguma instituição que tentem induzi-lo a fornecer informações, instalar/executar programas ou clicar em links;
+			- Questione por que instituições com as quais você não tem contato estão lhe enviando mensagens;
+			- Fique atento a mensagens que apelem demasiadamente pela sua atenção e que te ameacem de alguma forma;
+			- Não considere que uma mensagem é confiável com base na confiança que você deposita em seu remetente;
+			- Seja cuidadoso ao acessar links. Procure digitar o endereço diretamente no navegador Web;
+			- Verifique o link na mensagem (costumam ser bem estranhos);
+			- Utilize mecanismos de segurança (antimalware, firewalll, filtros antipishing);
+			- Verifique se a página utiliza conexão segura;
+			- Verifique as informações mostradas no certificado (Caso seja (mas o site é falso), é possível que o endereço mostrado no navegador seja diferente do endereço correspondente ao site verdadeiro);
+			- Acesse a página da instituição que supostamente enviou a mensagem e procure por informações.
+
+
+		- PHARMING
+			Tipo específico que phishing, que envolve a redireção da navegação do usuário para sites falsos por meio de alterações no serviço de DNS.
+	
+			PREVENÇÃO
+				- Desconfie ao digitar uma URL e for redirecioado para outro site
+				- Desconfie imediatamente caso o site de comércio eletrônico ou Internet Banking que você está acessando não utilize conexão segura
+				- Observe se o certificado apresentado corresponde ao do site verdadeiro
+
+
+	- GOLPES DE COMÉRCIO ELETRÔNICO
+		Golpistas exploram a relação de confiança existente entre as partes envolvidas em uma transação comercial
+
+		OBJETIVO: obter vantagens financeiras;
+
+		- GOLPE DO SITE DE COMÉRCIO ELETRÔNICO FRAUDULENTO
+			O golpista cria um site fraudulento;
+
+			OBJETIVO: enganar os possíveis clientes que "compram" mercadorias, mas não as recebem.
+
+			OUTRAS VÍTIMAS:
+				- Uma empresa séria, cujo nome tenha sido vinculado ao golpe;
+				- Um site de compras coletivas, caso ele tenha intermediado a compra;
+				- Uma pessoa, cuja identidade tenha sido usada para a criação do site ou abertura de empresas fantasmas
+
+			PREVENÇÃO:
+				- Faça uma pesquisa de mercado (compare preços);
+				- Pesquisa sobre o site antes de efetuar a compra;
+				- Acesse sites especializados em tratar reclamação de consumidores (Reclame Aqui);
+				- Fique atento a propagandas recebidas através de spam;
+				- Seja cuidadoso ao acessar links patrocinados;
+				- Procure validar os dados de cadastro da empresa no site da Receita Federal;
+				- Não informe dados de pagamento caso o site não ofereça conexão segura ou não apresente certificado confiável.
+
+
+		- GOLPE ENVOLVENDO SITES DE COMPRAS COLETIVAS
+			Golpistas criam sites fraudulentos e os utilizam para anunciar produtos nos sites de compras coletivas (grandes quantidades de vítimas em pouco tempo).
+
+			PREVENÇÃO:
+				- Procure não comprar por impulso;
+				- Seja cauteloso e faça pesquisas prévias;
+				- Pesquise na internet sobre o site;
+				- Siga as mesmas recomedações sobre a prevenção ao phishing;
+				- Sigas as mesmas recomedações sobre a prevenção a sites de comércio eletrônico fraudulento.
+
+
+		- GOLPE DO SITE DE LEILÃO E VENDA DE PRODUTOS
+			
