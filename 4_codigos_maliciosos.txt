@@ -1,0 +1,98 @@
+CÓDIGOS MALICIOSOS (MALWARE)
+	Programas especificamente desenvolvidos para executar ações danosas e atividades maliciosas em um computador.
+	Principais motivos para seu desenvolvimento:
+		- Obtenção de vantagens financeiras;
+		- Coleta de informações confidenciais;
+		- Desejo de autopromoção;
+		- Vandalismo;
+
+
+	VÍRUS
+		Programa ou parte de um programa de computador, normalmente malicioso, que se propaga inserindo cópias de si mesmo e se tornando parte de outros programas e arquivos.
+		Depende da execução do programa ou arquivo hospodeiro.
+
+		TIPOS MAIS COMUNS:
+			- Vírus propagado por e-mail: recebido como um arquivo anexo a um e-mail cujo conteúdo tenta induzir o usuario a clicar sobre este arquivo, fazendo com que seja executado;
+
+			- Vírus de script: escrito em linguagem de script, como VBScript e JavaScript, e recebido ao acessar uma página Web ou por e-mail, como um arquivo anexo ou como parte do próprio e-mail escrito em formato HTML;
+
+			- Vírus de macro: tipo específico de vírus de script, escrito em linguagem de macro, que tenta infectar arquivos manipulados por aplicativos que utilizam esta linguagem;
+
+			- Vírus de telefone celular: hoje muito mais coisas além do que tem na cartilha
+
+
+	WORM
+		Programa capaz de se propagar automaticamente pelas redes, enviando cópias de si mesmo de computador para computador.
+
+		Diferente do vírus, o worm não se propaga por meio da inclusão de cópias de si mesmo em outros programas ou arquivos, mas sim pela execução direta de suas cópias ou pela exploração automática de vulnerabilidades existentes em programas instalados em computadores.
+
+		O processo de propagac¸ao e infecção dos worms ocorre da seguinte maneira:
+			1) Identificação dos computadores alvos: após infectar um computador, o worm tenta se propagar e continuar o processo de infecção. Para isto, necessita identificar os computadores alvos para os quais tentará se copiar;
+
+			2) Envio das cópias: após identificar os alvos, o worm efetua cópias de si mesmo e tenta enviá-las para estes computadores;
+
+			3) Ativação das cópias: após realizado o envio da cópia, o worm necessita ser executado para que a infecção ocorra;
+
+			4) Reinício do processo: após o alvo ser infectado, o processo de propagação e infecção recomeça, sendo que, a partir de agora, o computador que antes era o alvo passa a ser também o computador originador dos ataques.
+
+
+	BOT E BOTNET
+		BOT e um programa que dispõe de mecanismos de comunicação com o invasor que permitem que ele seja controlado remotamente. Possui processo de infecção e propagação similar ao do worm.
+
+		A comunicação entre o invasor e o computador infectado pelo bot pode ocorrer via canais de IRC, servidores Web e redes do tipo P2P, entre outros meios.
+
+		Um computador infectado por um bot costuma ser chamado de zumbi (zombie computer). Também pode ser chamado de spam zombie quando o bot instalado o transforma em um servidor de e-mails e o utiliza para o envio de spam.
+
+		BOTNET e uma rede formada por centenas ou milhares de computadores zumbis e que permite potencializar as ações danosas executadas pelos bots.
+
+
+	SPYWARE
+		Spyware e um programa projetado para monitorar as atividades de um sistema e enviar as informações coletadas para terceiros.
+
+		Pode ser usado de forma:
+			LEGÍTIMA: quando instalado em um computador pessoal, pelo próprio dono ou com consentimento deste, com o objetivo de verificar se outras pessoas o estão utilizando de modo abusivo ou não autorizado;
+
+			MALICIOSA: quando executa ações que podem comprometer a privacidade do usuário e a segurança do computador.
+
+		TIPOS:
+			- Keylogger: capaz de capturar e armazenar as teclas digitadas pelo usuário no teclado do computador;
+			- ScreenLogger: capaz de armazenar a posição do cursor e a tela apresentada no monitor, nos momentos em que o mouse e clicado, ou a região que circunda a posição onde o mouse é clicado;
+			- Adware: projetado especificamente para apresentar propagandas.
+
+	BACKDOOR
+		Backdoor é um programa que permite o retorno de um invasor a um computador comprometido, por meio da inclusão de serviços criados ou modificados para este fim.
+		Assegurar o acesso futuro ao computador comprometido, permitindo que ele seja acessado remotamente.
+
+		Programas de administração remota, como BackOrifice, NetBus, Sub-Seven, VNC e Radmin, se mal configurados ou utilizados sem o consentimento do usuário, também podem ser classificados como backdoors.
+
+
+	CAVALO DE TROIA (TROJAN)
+		Cavalo de troia, trojan ou trojan-horse, é um programa que, além de executar as funções para as quais foi aparentemente projetado, também executa outras funções, normalmente maliciosas, e sem o conhecimento do usuário.
+
+		Estes programas, geralmente, consistem de um único arquivo e necessitam ser explicitamente executados para que sejam instalados no computador.
+		Trojans também podem ser instalados por atacantes que, após invadirem um computador, alteram programas já existentes para que, além de continuarem a desempenhar as funções originais, também executem ações maliciosas.
+
+		TIPOS:
+			- Trojan Downloader: instala outros codigos maliciosos, obtidos de sites na Internet.
+			- Trojan Dropper: instala outros codigos maliciosos, embutidos no próprio código do trojan.
+			- Trojan Backdoor: inclui backdoors, possibilitando o acesso remoto do atacante ao computador.
+			- Trojan DoS: instala ferramentas de negação de serviço e as utiliza para desferir ataques.
+			- Trojan Destrutivo: altera/apaga arquivos e diretórios, formata o disco rígido e pode deixar o computador fora de operação.
+			- Trojan Clicker: redireciona a navegação do usuário para sites específicos, com o objetivo de aumentar a quantidade de acessos a estes sites ou apresentar propagandas.
+			- Trojan Proxy: instala um servidor de proxy, possibilitando que o computador seja utilizado para navegação anônima e para envio de spam.
+			- Trojan Spy: instala programas spyware e os utiliza para coletar informac¸oes sensíveis
+			- Trojan Banker: coleta dados bancarios do usuário, através da instalação de programas spyware que são ativados quando sites de Internet Banking são acessados. E similar ao Trojan Spy porém com objetivos mais específicos
+
+
+	ROOTKIT
+		Rootkit e um conjunto de programas e técnicas que permite esconder e assegurar a presença de um invasor ou de outro codigo malicioso em um computador comprometido.
+
+		- remover evidências em arquivos de logs;
+		- instalar outros códigos maliciosos, como backdoors, para assegurar o acesso futuro ao computador infectado;
+		- esconder atividades e informações, como arquivos, diretórios, processos, chaves de registro, conexẽes de rede, etc.
+		- mapear potenciais vulnerabilidades em outros computadores, por meio de varreduras na rede;
+		- capturar informações da rede onde o computador comprometido está localizado, pela interceptação de tráfego.
+
+	PREVENÇÃO
+		- Manter os programas instalados com as versões mais recentes e com todas as atualizações disponíveis aplicadas e usar mecanismos de segurança, como antimalware e firewall pessoal;
+		- Cuidado ao manipular arquivos.
