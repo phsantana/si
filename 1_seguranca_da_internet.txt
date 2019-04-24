@@ -1,0 +1,43 @@
+SEGURANÇA NA INTERNET
+	Riscos ao utilizar a internet:
+		- Acesso a conteúdos impróprios ou ofensivos
+			(pornografia, ódio, racismo)
+
+		- Contato com pessoas mal-intencionadas
+			(aproveitam da falsa sensação de anonimato. Pornagrafia infantil, estelionato, sequestro)
+
+		- Furto de identidade
+			(colocando em risco sua imagem ou reputação)
+
+		- Furto e perda de dados
+			(dados podem ser furtados e apagados)
+
+		- Invasão de privacidade
+			(podem tornar público aquilo que era privado. Alteração nos dados)
+
+		- Divulgação de boatos
+			(divulgação de informações falsas. Podem gerar pânico e prejudicar pessoas/empresas)
+
+		- Dificuldade de exclusão
+			(aquilo que está na internet nem sempre pode ser totalmente excluído ou ter o acesso controlado, e podem ser usados contra você)
+
+		- Dificuldade de detectar e expressar sentimentos
+			(podem gerar mal entendido e interpretação dúbia)
+
+		- Dificuldade de manter sigilo
+			(as informações podem trafegar ou ficar armazenadas de forma que outras pessoas tenham acessos)
+
+		- Uso excessivo
+			(podem colocar em risco a saúde física, diminuir a produtividade e afetar sua vida profissional e pessoal)
+
+		- Plágio e violação de direitos autorais
+			(a violação do copyright pode resultar em problemas jurídicos e em perdas financeiras)
+
+		- Achar que não corre riscos por supor que ninguém tem interesse em utilizar o seu computador ou que dificilmente acontecerá com você
+			(seu computador pode ser usado para a prática de atividades maliciosas)
+
+
+		PREVENÇÕES
+			1) Estar ciente de que a internet não tem nada de "virtual" (golpes que são aplicados na internet são aplicados na vida real, os dados são reais);
+			2) Tenha os mesmos cuidados e as mesmas preocupações que você tem no seu dia a dia
+			3) Adote uma postura preventiva que a atenção com a segurança seja um hábito incorporado à sua rotina

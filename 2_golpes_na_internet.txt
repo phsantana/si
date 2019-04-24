@@ -1,49 +1,3 @@
-SEGURANÇA NA INTERNET
-	Riscos ao utilizar a internet:
-		- Acesso a conteúdos impróprios ou ofensivos
-			(pornografia, ódio, racismo)
-
-		- Contato com pessoas mal-intencionadas
-			(aproveitam da falsa sensação de anonimato. Pornagrafia infantil, estelionato, sequestro)
-
-		- Furto de identidade
-			(colocando em risco sua imagem ou reputação)
-
-		- Furto e perda de dados
-			(dados podem ser furtados e apagados)
-
-		- Invasão de privacidade
-			(podem tornar público aquilo que era privado. Alteração nos dados)
-
-		- Divulgação de boatos
-			(divulgação de informações falsas. Podem gerar pânico e prejudicar pessoas/empresas)
-
-		- Dificuldade de exclusão
-			(aquilo que está na internet nem sempre pode ser totalmente excluído ou ter o acesso controlado, e podem ser usados contra você)
-
-		- Dificuldade de detectar e expressar sentimentos
-			(podem gerar mal entendido e interpretação dúbia)
-
-		- Dificuldade de manter sigilo
-			(as informações podem trafegar ou ficar armazenadas de forma que outras pessoas tenham acessos)
-
-		- Uso excessivo
-			(podem colocar em risco a saúde física, diminuir a produtividade e afetar sua vida profissional e pessoal)
-
-		- Plágio e violação de direitos autorais
-			(a violação do copyright pode resultar em problemas jurídicos e em perdas financeiras)
-
-		- Achar que não corre riscos por supor que ninguém tem interesse em utilizar o seu computador ou que dificilmente acontecerá com você
-			(seu computador pode ser usado para a prática de atividades maliciosas)
-
-
-		PREVENÇÕES
-			1) Estar ciente de que a internet não tem nada de "virtual" (golpes que são aplicados na internet são aplicados na vida real, os dados são reais);
-			2) Tenha os mesmos cuidados e as mesmas preocupações que você tem no seu dia a dia
-			3) Adote uma postura preventiva que a atenção com a segurança seja um hábito incorporado à sua rotina
-
-
-
 GOLPES NA INTERNET
 	Exploram fragilidades dos usuários. Os golpistas procuram enganar e persuadir potenciais vítimas a fornecerem informações sensível ou a realizarem ações por meio de engenharia social e por diferentes meios de discursos.
 
@@ -164,4 +118,39 @@ GOLPES NA INTERNET
 
 
 		- GOLPE DO SITE DE LEILÃO E VENDA DE PRODUTOS
-			
+			Comprador ou vendedor age de má fé e não cumpre com as obrigações acordadas ou utiliza dados pessoais e financeiros envolvidos na transação comercial para outros fins.
+
+			Exemplos:
+				- O comprador tenta receber a mercadoria sem realizar o pagamento ou o realiza por meio de transferência de uma conta bancária ilegítima ou furtada;
+				- Vendedor tenta receber o pagamento sem efetuar a entrega da mercadoria, ou a mercadoria está danificada, falsificada, etc
+				- Comprador ou vendedor envia e-mails falsos, em nome do sistema de gerenciamento de pagamentos como forma de comprovar a realização do pagamento ou envio da mercadoria que não foi de fato feito
+
+			PREVENÇÃO
+				- Faça uma pesquisa de mercado (compare preços)
+				- Marque encontros em locais públicos caso a entrega do produto seja feita pessoalmente
+				- Acesse sites especializados em tratar reclamações de consumidores instisfeitos (Reclame Aqui)
+				- Utilize sistemas de gerenciamento de pagamentos pois dificultam a aplicação de golpes e impedem que seus dados sejam enviados aos golpistas
+				- Procure confirmar a realização de um pagamento diretamente em sua conta bancária
+				- Verifique a reputação do usuário
+				- Acesse os sites, tanto do sistema de gerenciamento de pagamentos como o responsável pelas vendas (não clique em links)
+				- Não utilize o código de rastreio enviado pelo vendedor para confirmar o envio e liberar o pagamento
+
+
+	BOATO (HOAX)
+		Mensagem que possui conteúdo alarmante e falso
+
+		PODEM:
+			- conter códigos maliciosos
+			- espalhar desinformação
+			- ocupar espaços nas caixas de e-mails dos usuários
+			- comprometer a credibilidade e a reputação de entidades e pessoas referenciadas na mensagem
+			- aumentar excessivamente a carga de servidores de e-mail e o consumo de banda de rede
+			- indicar ações a serem realizadas que podem resultar em sérios danos
+
+		PREVENÇÃO:
+			Fique atento caso tenha estas características:
+				- afirma não ser um boato;
+				- sugere consequências trágicas caso nada seja feito;
+				- promete recompensas grandes mediante a realização de alguma ação;
+				- apresenta erros gramaticais e de ortografia;
+				- apresenta informações contraditórias.
