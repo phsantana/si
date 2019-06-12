@@ -1,0 +1,51 @@
+Para garantir a autenticidade e não-repúdio foi desenvolvida a Infraestrutura de Chaves Públicas - ICP (PKI);
+
+Baseando-se no princípio da terceira parte confiável, oferece mediação de credibilidade e confiança nas transações realizadas em ambiente eletrônico através de certificados digitais;
+
+No Brasil foi instituída pela Medida Provisória nº 2200-2, de 24 de Agosto de 2001 (Infraestrutura de chaves públicas brasileiras): A Autoridade Certificadora Raiz da ICP-Brasil é a primeira autoridade da cadeia de certificação;
+
+A AC-Raiz também está encarregada de emitir a lista de certificados revogados e de fiscalizar e auditar as autoridades certificadoras, autoridades de registro e demais prestadores de serviço habilitados na ICP-Brasil. Além disso, verifica se as Autoridades Certificadoras (AC) estão atuando em conformidade com as diretrizes e normas técnicas estabelecidas pelo Comitê Gestor;
+
+Estrutura ICP-Brasil;
+
+OBJETIVO:
+	- Gerenciamento dos processos associados ao ciclo de vida e utilização de chaves assimétricas:
+		- Chave privada:
+			- Algoritmo RSA, ECDSA
+		- Chave pública:
+			- Algoritmo RSA, ECDSA
+		- Chave digitais:
+			- Padrão X.509 (usado pelos certificados digitais. Dentro dele está a chave pública)
+
+	- Principais Componentes:
+		- Entidades
+			- AC: Autoridade Certificadora (responsável por emitir certificados, renovar certificados, revogar certificados)
+			- AR: Autoridade Registradora
+			- EF: Entidade Final (tanto a empresa que o possui, ou nós mesmos (quem usa o certificado))
+
+		- Infraestrutura
+			- RC: Repositório de Certificados (teoricamente, o que está aqui foi verificado. São espelhos para outros respositórios)
+
+
+		AUTORIDADE CERTIFICADORA
+			Pode emitir 3 tipos de certificados:
+				1) Certificado para entidade final
+				2) Certificado para ACs subordinadas (emitido para ACs subordinadas. Quando uma AC emite o próprio certificado, este é denominado de "Certificado Raiz ou Root")
+				3) Certificado Cruzado (processos de autenticação entre diferentes domínios de segurança)
+
+		RC
+
+		AUTORIDADE REGISTRADORA
+			- Responsabilidades da AR
+			- Cadeia de Certificação
+			- AR não emite certificados
+
+		ENTIDADE FINAL
+			Quem vai precisar consumir o serviço.
+
+		Antes de utilizar um certificado digital, deve ser verificado:
+			- A assinatura do certificado;
+			- Deve estar assinado por uma AC reconhecida;
+			- Deve estar dentro do período da validade;
+			- O certificado não deve estar revogado;
+			- O certificado deve estar sendo utilizado para uma função prevista em sua política de utilização;
